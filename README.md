@@ -4,4 +4,6 @@ Projeto 1 da matéria de "Estrutura de Dados".
 
 O trabalho consiste em fazer um programa que leia um arquivo txt que tem um labirinto dentro, e consiga encontrar a saida dele.
 
+Feito totalmente em JAVA.
+
 Criado por Pedro Sakai e Yara Ribeiro.
